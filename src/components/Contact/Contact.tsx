@@ -16,7 +16,7 @@ export function Contact() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
           <div className="rounded-2xl overflow-hidden h-[300px] lg:h-[500px]">
             <img
-              src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
+              src="/src/assets/images/contact_me_image.png"
               alt="Contact"
               className="w-full h-full object-cover"
             />
@@ -59,26 +59,26 @@ export function Contact() {
             </h3>
             <div className="flex justify-center gap-4 lg:gap-6">
               <SocialIcon
-                icon="https://images.unsplash.com/photo-1611944212129-29977ae1398c"
+                icon="/src/assets/images/linkedin_icon.png"
                 title="LinkedIn"
                 link="#"
                 rotation="-rotate-3"
               />
               <SocialIcon
-                icon="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb"
+                icon="/src/assets/images/github_icon.png"
                 title="GitHub"
                 link="#"
                 rotation="rotate-2"
               />
               <SocialIcon
-                icon="https://images.unsplash.com/photo-1638141986236-19605f25e11e"
+                icon="/src/assets/images/tableau_icon.png"
                 title="Tableau"
                 link="#"
                 rotation="-rotate-2"
               />
               <SocialIcon
                 icon="https://images.unsplash.com/photo-1633409361618-c73427e4e206"
-                title="Sample"
+                title="socailmedia"
                 link="#"
                 rotation="rotate-3"
               />
