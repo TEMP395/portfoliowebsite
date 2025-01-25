@@ -4,7 +4,7 @@ export function Hero() {
       <div className="max-w-[1800px] mx-auto px-[120px]">
         <div className="w-full rounded-2xl overflow-hidden">
           <img
-            src="https://placehold.co/1920x1080/1a1a1a/ffffff?text=Hero+Section"
+            src="/src/assets/images/hero_image.png"
             alt="Hero"
             className="w-full h-[85vh] object-cover"
             sizes="(max-width: 640px) 100vw,
