@@ -26,12 +26,12 @@ export function Skills() {
         <div className="w-full overflow-hidden rounded-2xl mb-8">
           <div className="relative bg-gray-800 aspect-[18/5]">
             <img
-              src="src/assets/images/skills overview.png"
+              src="src/assets/images/skills overview2.png"
               alt="Skills Overview Placeholder"
               className="w-full h-full object-cover absolute inset-0"
             />
             <img
-              src="/src/assets/images/skills overview.jpg"
+              src="/src/assets/images/skills overview2.png"
               alt="Skills Overview"
               className="w-full h-full object-cover absolute inset-0"
               sizes="(max-width: 640px) 100vw, 
@@ -53,7 +53,7 @@ export function Skills() {
               <span className="text-lg mx-8">•</span>
               <span className="text-lg mx-8">Project Management</span>
               <span className="text-lg mx-8">•</span>
-              <span className="text-lg mx-8">Strategic Planning</span>
+              <span className="text-lg mx-8">EDA</span>
               <span className="text-lg mx-8">•</span>
               <span className="text-lg mx-8">Research</span>
               <span className="text-lg mx-8">•</span>
@@ -63,7 +63,7 @@ export function Skills() {
               <span className="text-lg mx-8">•</span>
               <span className="text-lg mx-8">Project Management</span>
               <span className="text-lg mx-8">•</span>
-              <span className="text-lg mx-8">Strategic Planning</span>
+              <span className="text-lg mx-8">EDA</span>
               <span className="text-lg mx-8">•</span>
               <span className="text-lg mx-8">Research</span>
               <span className="text-lg mx-8">•</span>
